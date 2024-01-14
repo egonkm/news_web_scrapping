@@ -1,2 +1,2 @@
-# news_web_scrapping
+# Web scrapping news sites
 Scrapping news with Python and Selenium
